@@ -1,3 +1,6 @@
 numpy
 timeit
 platform
+numpy
+scipy
+sympy
