@@ -1,6 +1,5 @@
 numpy
-timeit
+# timeit
 platform
-numpy
 scipy
 sympy
